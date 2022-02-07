@@ -7,6 +7,7 @@ int main()
     std::cin>>y;
     float i,j;
     if(y<=0)
+    //Try using boolean    
     {
         i=14,j=6;
     }
