@@ -2,6 +2,8 @@
 
 #include "Sales_data.h"
 
+\\.h file included in the repository
+
 int main()
 {
     Sales_data obj1,obj2;
