@@ -2,7 +2,7 @@
 
 #include "Sales_data.h"
 
-\\.h file included in the repository
+//.h file included in the repository
 
 int main()
 {
